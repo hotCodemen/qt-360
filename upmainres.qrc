@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Menu.png</file>
+        <file>image/min.png</file>
+        <file>image/playvideo.png</file>
+        <file>image/Skin.png</file>
+        <file>image/close.png</file>
+        <file>image/feedback.png</file>
+        <file>image/shu_line.png</file>
+        <file>image/payinsure_safe_hover.png</file>
+        <file>image/payinsure_safe_normal.png</file>
+        <file>image/security_safe_hover.png</file>
+        <file>image/security_safe_normal.png</file>
+        <file>image/guardline.png</file>
+        <file>image/360logo.png</file>
+        <file>image/update_btn.png</file>
+        <file>image/btn_examine_now.png</file>
+        <file>image/head.png</file>
+        <file>image/head_bkg.png</file>
+        <file>image/examine_score.png</file>
+        <file>image/100.png</file>
+        <file>image/360logo.ico</file>
+    </qresource>
+</RCC>
